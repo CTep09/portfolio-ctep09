@@ -5,27 +5,17 @@
 ## Table of Contents
 
 - [**Description**](#📑-description)
-- [**Installation**](#💾-installation)
 - [**Usage**](#💻-usage)
-- [**Contribution**](#🤝-contribution)
 - [**Technology**](#🚀-technology)
-- [**Test**](#🧪-test)
 - [**Questions**](#❓-questions)
 
 ## 📑 Description
 
-## 💾 Installation
-
 ## 💻 Usage
 
-## 🤝 Contribution
 
 ## 🚀 Technology
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mysql)](https://skillicons.dev)
-
-- **Insomnia**
-
-## 🧪 Test
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react)](https://skillicons.dev)
 
 ## ❓ Questions
 
